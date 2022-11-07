@@ -1,5 +1,7 @@
 from urllib import request
 from player import Player
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
 class PlayerReader:
     def __init__(self):
