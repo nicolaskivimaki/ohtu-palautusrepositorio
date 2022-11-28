@@ -4,4 +4,3 @@ Glad, Sad, Mad  on retrospektiivimalli, jossa projektitiimiltä kerätään niin
 
 Start, Stop, Continue, More of, Less of Wheel on toinen retrospektiivimalli. Tässä mallissa tapaamisen vetäjä kerää tiimiltä palautetta, joka jaetaan viiteen kategoriaan esimerkiksi taululle piiretyn ympyrän sisälle. Tiimi käy sitten yhdessä palautteet läpi ja pohtii, miten positiivisia palautteita pystytään toistamaan ja miten ongelmia voitaisiin välttää tulevaisuudessa. Tämän mallin tapaamisille suositellaan kestoksi noin 10-25 minuuttia.
 
-utos1
